@@ -1,0 +1,1 @@
+C:\Illumina\MiSeq Control Software\Recipe\V3
